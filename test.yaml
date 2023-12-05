@@ -4,4 +4,7 @@ arch:
   terminals:
     - kitty
     - alacritty
+  apps:
+    - btop
+    - ranger
   
