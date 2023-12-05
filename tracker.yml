@@ -1,0 +1,7 @@
+arch:
+  apps:
+  - btop
+  - ranger
+  terminals:
+  - kitty
+  - alacritty

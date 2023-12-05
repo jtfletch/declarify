@@ -2,7 +2,10 @@ module github.com/jtfletch/declarify
 
 go 1.21.4
 
-require github.com/spf13/viper v1.17.0
+require (
+	github.com/spf13/viper v1.17.0
+	gopkg.in/yaml.v2 v2.2.2
+)
 
 require (
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
